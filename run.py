@@ -8,10 +8,15 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(00000.1)
 jalan ="\033[1;91m===10%"
+os.system("clear")
 jalan ="\033[1;92======40%"
+os.system("clear")
 jalan ="\033[1;93===========60%"
+os.system("clear")
 jalan ="\033[1;94===================80%"
+os.system("clear")
 jalan ="\033[1;95==========================100%"
+os.system("clear")
 print("""
 \033[1;91m1- YouTube. 
 \033[1;91m12- github .
