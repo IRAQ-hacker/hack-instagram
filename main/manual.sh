@@ -28,7 +28,7 @@ read -p "[#] Enter Passlist Location : " inspass
 echo
 if [ $inspass = 0 ]                                             
 then
-echo -e  "$ylo >>> exiting........! Bye Bye :) <<<$rset"        
+echo -e  "$ylo >>> exiting........! Bye Hacker  :) <<<$rset"        
 else
 
   instagram-py --username $usrnm --password-list $inspass
