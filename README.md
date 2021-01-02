@@ -67,9 +67,9 @@ __UPDATE__ :
 ![IMG_20210102_024906_220](https://user-images.githubusercontent.com/70316694/103448086-3ce6b700-4ca5-11eb-84b1-0d23706ae37e.jpg)
 
 # follow me in :
-[![](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/iiwiw)
+[![30%](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/iiwiw)
 
-[![](https://img.shields.io/badge/channel-intelegram-yellow)](https://t.me/professional_school)
+[![30%](https://img.shields.io/badge/channel-intelegram-yellow)](https://t.me/professional_school)
 
-[![](https://img.shields.io/badge/subscribe%20-%20inmyYouTube-red)](https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA)
+[![30%](https://img.shields.io/badge/subscribe%20-%20inmyYouTube-red)](https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA)
 
