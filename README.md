@@ -61,10 +61,20 @@ __UPDATE__ :
 # run :
 ~ `bash setup`
 ~ `bash  bs4-insta.sh`
+<br>
 
-![IMG[10%](https://user-images.githubusercontent.com/70316694/103448080-322c2200-4ca5-11eb-8ab4-9b8cfcd5aeb4.jpg)
+<p align="center">
 
-![IMG[30%](https://user-images.githubusercontent.com/70316694/103448086-3ce6b700-4ca5-11eb-84b1-0d23706ae37e.jpg)
+<img width="20%" src= "https://user-images.githubusercontent.com/70316694/103448080-322c2200-4ca5-11eb-8ab4-9b8cfcd5aeb4.jpg"/>
+
+<br>
+
+<p align="center">
+
+<img width="25%" src= "https://user-images.githubusercontent.com/70316694/103448086-3ce6b700-4ca5-11eb-84b1-0d23706ae37e.jpg"/>
+<p/>
+
+
 
 # follow me in :
 [![30%](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/iiwiw)
