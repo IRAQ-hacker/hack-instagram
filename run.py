@@ -1,6 +1,17 @@
 import os,sys,time
+
 os.system("clear")
 
+def jalan(z):
+	for e in z + '\n':
+		sys.stdout.write(e)
+		sys.stdout.flush()
+		time.sleep(00000.1)
+jalan ="\033[1;91m===10%"
+jalan ="\033[1;92======40%"
+jalan ="\033[1;93===========60%"
+jalan ="\033[1;94===================80%"
+jalan ="\033[1;95==========================100%"
 print("""
 \033[1;91m1- YouTube. 
 \033[1;91m12- github .
