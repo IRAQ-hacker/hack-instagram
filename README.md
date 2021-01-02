@@ -68,6 +68,8 @@ __UPDATE__ :
 
 # follow me in :
 [![](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/iiwiw)
-[![](https://img.shields.io/badge/channel-in telegram-yellow)](https://t.me/professional_school)
-[![](https://img.shields.io/badge/subscribe%20-%20 in my YouTube -red)](https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA)
+
+[![](https://img.shields.io/badge/channel-intelegram-yellow)](https://t.me/professional_school)
+
+[![](https://img.shields.io/badge/subscribe%20-%20inmyYouTube-red)](https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA)
 
