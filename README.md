@@ -53,23 +53,34 @@ __UPDATE__ :
 
 # install this : 
 ~ `apt-get update`
+
 ~ `apt-get upgrade`
+
 ~ `pkg install python -y`
-~ `pkg install python2`
+
+~ `pkg install python2-y`
+
 ~ `pkg install git -y
+
 ~ `pip install lolcat`
+
 ~ `pip install colorama`
+
 ~ `pip install requests`
+
 ~ `pip install bs4`
 
 # use tool :
 
 ~ `cd hack-instagram`
+
 ~ `chmod +x *`
 
 # run :
 ~ `bash setup`
+
 ~ `bash  bs4-insta.sh`
+
 <br>
 
 <p align="center">
