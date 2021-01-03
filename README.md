@@ -50,6 +50,9 @@ __UPDATE__ :
 - From this option you can update hack-instagram tool if updates are available for that.
 
 
+# for use  ;
+
+https://youtu.be/oQ0aI_Ha8PU
 
 # install this : 
 ~ `apt-get update`
@@ -77,6 +80,8 @@ __UPDATE__ :
 ~ `chmod +x *`
 
 # run :
+- `python run.py`
+
 ~ `bash setup`
 
 ~ `bash  bs4-insta.sh`
