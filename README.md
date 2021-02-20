@@ -65,36 +65,36 @@ __UPDATE__ :
 
 
 # install this : 
-~ `apt-get update`
+- `apt-get update`
 
-~ `apt-get upgrade`
+- `apt-get upgrade`
 
-~ `pkg install python -y`
+- `pkg install python -y`
 
-~ `pkg install python2-y`
+- `pkg install python2-y`
 
-~ `pkg install git -y
+- `pkg install git -y
 
-~ `pip install lolcat`
+- `pip install lolcat`
 
-~ `pip install colorama`
+- `pip install colorama`
 
-~ `pip install requests`
+- `pip install requests`
 
-~ `pip install bs4`
+- `pip install bs4`
 
 # use tool :
 
-~ `cd hack-instagram`
+- `cd hack-instagram`
 
-~ `chmod +x *`
+- `chmod +x *`
 
 # run :
 - `python run.py`
 
-~ `bash setup`
+- `bash setup`
 
-~ `bash  bs4-insta.sh`
+- `bash  bs4-insta.sh`
 
 <br>
 
