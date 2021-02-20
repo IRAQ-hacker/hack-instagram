@@ -109,9 +109,11 @@ __UPDATE__ :
 <p align="center">
 
 <img width="45%" src= "https://user-images.githubusercontent.com/70316694/108591838-cc424980-737b-11eb-8004-746bd23929a4.jpg"/>
-    <p/>
-
-
+    
+<br>
+<p align="center">
+    
+<img width="45%" src= "
 
 # follow me in :
 [![30%](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/iiwiw)
