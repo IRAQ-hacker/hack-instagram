@@ -65,6 +65,7 @@ __UPDATE__ :
 
 
 # install this : 
+
 - `apt-get update`
 
 - `apt-get upgrade`
@@ -73,7 +74,7 @@ __UPDATE__ :
 
 - `pkg install python2-y`
 
-- `pkg install git -y
+- `pkg install git -y `
 
 - `pip install lolcat`
 
