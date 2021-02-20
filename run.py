@@ -29,7 +29,7 @@ if xp =='1':
 
     print('please white second and subscribe in YouTube for run the tool')
     time.sleep(0.6)
-    os.system('xdg-open https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA')
+    os.system('xdg-open https://youtube.com/c/%D8%B1%D8%A7%D8%B4%D8%AF%D9%83%D8%B1%D9%8A%D9%85 ')
            
 if xp =='2':
            
