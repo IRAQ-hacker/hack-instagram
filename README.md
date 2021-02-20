@@ -61,7 +61,8 @@ __UPDATE__ :
 
 # for use  ;
 
-https://youtu.be/oQ0aI_Ha8PU
+[![30%](https://img.shields.io/badge/channel-intelegram-yellow)](https://t.me/professional_school)
+
 
 # install this : 
 ~ `apt-get update`
