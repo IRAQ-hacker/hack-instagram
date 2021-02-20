@@ -4,7 +4,7 @@ echo '
 
 				/¯\ |¯/ /¯\ | | ¯|¯ 				|¯| |¯/ |¯| |_|  |  
 
-				     ¯                v3.0
+				     ¯                v4.0
 
                                                  
 
@@ -20,7 +20,7 @@ echo " hi i'm ReKuShE dev this tool the tool for hack insta use attack pass and 
 
 echo ""
 
-echo "                  Our YouTube  :- Bs4"| lolcat
+echo "                  Our Telegram  :- Rashid karim @Professional_school"| lolcat
 
 echo " "
 
