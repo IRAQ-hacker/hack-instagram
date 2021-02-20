@@ -49,6 +49,15 @@ __UPDATE__ :
 
 - From this option you can update hack-instagram tool if updates are available for that.
 
+```
+[+]--Now you need internet connection to continue further process...
+
+[+]--You can select any option by clicking on your keyboard
+
+[+]--Note:- Don't delete any of the scripts included in core files
+
+[+]--new session and start TOR (tor) before starting the attack
+```
 
 # for use  ;
 
@@ -106,7 +115,7 @@ https://youtu.be/oQ0aI_Ha8PU
 
 [![30%](https://img.shields.io/badge/channel-intelegram-yellow)](https://t.me/professional_school)
 
-[![30%](https://img.shields.io/badge/subscribe%20-%20inmyYouTube-red)](https://youtube.com/channel/UCCgmIKpPgUOQauZ3IvrchBA)
+[![30%](https://img.shields.io/badge/subscribe%20-%20inmyYouTube-red)](https://youtube.com/channel/راشدكريم)
 
 
 - Dev ReKuShE
