@@ -108,7 +108,7 @@ __UPDATE__ :
 
 <p align="center">
 
-<img width="60%" src= "https://user-images.githubusercontent.com/70316694/103448086-3ce6b700-4ca5-11eb-84b1-0d23706ae37e.jpg"/>
+<img width="45%" src= "https://user-images.githubusercontent.com/70316694/108591838-cc424980-737b-11eb-8004-746bd23929a4.jpg"/>
     <p/>
 
 
